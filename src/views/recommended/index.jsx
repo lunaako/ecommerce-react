@@ -5,7 +5,7 @@ import bannerImg from '@/images/banner-3.png';
 import React from 'react';
 
 const RecommendedProducts = () => {
-  useDocumentTitle('Recommended Products | Salinaka');
+  useDocumentTitle('Recommended Products | Lunara');
   useScrollTop();
 
   const {
