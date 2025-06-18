@@ -1,13 +1,13 @@
-# Salinaka | E-commerce react app
-Simple ecommerce react js app with firebase [typescript].
+# CrystalLuna | E-commerce React App for Crystals
+A specialized e-commerce React JS app focused on selling high-quality crystals, integrated with Firebase [TypeScript].
 ![Firebase Deploy](https://github.com/jgudo/ecommerce-react/workflows/Firebase%20Deploy/badge.svg)
 
-### [Live demo](https://salinaka-ecommerce.web.app/)
+### [Live demo](https://ecommerce-react-luna.web.app/)
+![CrystalLuna screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/crystal-screenshot-1.png)
+![CrystalLuna screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/crystal-screenshot-2.png)
 
-![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny1.png)
-![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny2.png)
-![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny3.png)
-![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny7.png)
+## About CrystalLuna
+CrystalLuna is an online platform dedicated to offering a wide variety of crystals, from healing stones to decorative pieces. Our mission is to provide customers with authentic, high-energy crystals to enhance their spiritual and aesthetic experiences. Explore our collection to find the perfect crystal for your needs.
 
 ## Run Locally
 ### 1. Install Dependencies
@@ -15,8 +15,8 @@ Simple ecommerce react js app with firebase [typescript].
 $ yarn install
 ```
 
-### 2. Create a new firebase project
-Login to your google account and create a new firebase project [here](https://console.firebase.google.com/u/0/)
+### 2. Create a new Firebase project
+Login to your Google account and create a new Firebase project [here](https://console.firebase.google.com/u/0/)
 
 Create an `.env` file and add the following variables.
 
@@ -51,15 +51,14 @@ $ yarn build
 ## How to add products or perform CRUD operations for Admin
 1. Navigate to your site to `/signup`
 2. Create an account for yourself
-3. Go to your firestore collection `users collection` and edit the account you've just created. Change the role from `USER` to `ADMIN`.
-4. Reload or sigin again to see the changes. 
+3. Go to your Firestore collection `users collection` and edit the account you've just created. Change the role from `USER` to `ADMIN`.
+4. Reload or sign in again to see the changes. 
 
 **Firebase Admin to be integrated soon**
 
 ## Features
 
-* Admin CRUD operations
-* Firebase authentication
+* Admin CRUD operations for managing crystal inventory
+* Firebase authentication for secure user access
 * Firebase auth provider authentication
-* Account creation and edit
-
+* Account creation and edit for personalized shopping experiences
