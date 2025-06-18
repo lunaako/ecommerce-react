@@ -3,8 +3,8 @@ A specialized e-commerce React JS app focused on selling high-quality crystals, 
 ![Firebase Deploy](https://github.com/jgudo/ecommerce-react/workflows/Firebase%20Deploy/badge.svg)
 
 ### [Live demo](https://ecommerce-react-luna.web.app/)
-![CrystalLuna screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/crystal-screenshot-1.png)
-![CrystalLuna screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/crystal-screenshot-2.png)
+![CrystalLuna screenshot](https://raw.githubusercontent.com/lunaako/ecommerce-react/master/static/crystal-screenshot-1.png)
+![CrystalLuna screenshot](https://raw.githubusercontent.com/lunaako/ecommerce-react/master/static/crystal-screenshot-2.png)
 
 ## About CrystalLuna
 CrystalLuna is an online platform dedicated to offering a wide variety of crystals, from healing stones to decorative pieces. Our mission is to provide customers with authentic, high-energy crystals to enhance their spiritual and aesthetic experiences. Explore our collection to find the perfect crystal for your needs.
